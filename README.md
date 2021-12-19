@@ -39,4 +39,5 @@
   <b>high school student & osu player<br>I love cats and birds</b><br><br>
   
   <p align="center"><a href="https://steamcommunity.com/id/NotNowest/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
-</p>
+<p align="center"> <a href="https://discord.gg/KuE3q3t978"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
+  </p></a>
