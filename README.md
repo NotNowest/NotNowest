@@ -1,6 +1,6 @@
 <h1>᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼🌠 currently I'm...</h1>
 
-<img src="https://user-images.githubusercontent.com/51419598/146658707-fef649e8-4595-4b46-9943-314011f5b2d0.gif" width="350" align="right">
+<a href = "https://open.spotify.com/user/ppfwqztl62ad6e157qh342vzm"> <img src="https://user-images.githubusercontent.com/51419598/146658707-fef649e8-4595-4b46-9943-314011f5b2d0.gif" width="350" align="right">
   
 <p align="center">
   <a href= "https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FFCC33?style=for-the-badge&logo=javascript&logoColor=000000"> </a>
@@ -21,7 +21,7 @@
   
 <h2>᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼🎍 what I know...</h2>
 
-<img src="https://user-images.githubusercontent.com/51419598/146659018-13402af5-c6b4-4aee-8a84-003399f87767.gif" height="200" align="right">
+<a href = "https://c.tenor.com/AaN5qSyTE-oAAAAC/komi-shouko.gif"> <img src="https://user-images.githubusercontent.com/51419598/146659018-13402af5-c6b4-4aee-8a84-003399f87767.gif" height="200" align="right"> </a>
 
 
 - I enjoy to make bots and related kind of projects by my own, so here we are
