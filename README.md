@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/51419598/146658707-fef649e8-4595-4b46-9943-314011f5b2d0.gif" width="350" align="right">
   
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFCC33?style=for-the-badge&logo=javascript&logoColor=000000">
-  <img src="https://img.shields.io/badge/Kotlin-9966FF?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
+  <a href= "https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FFCC33?style=for-the-badge&logo=javascript&logoColor=000000"> </a>
+  <a href = "https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-9966FF?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href = "https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue"></a>
   <br>
   
   <p align="center">starting to like programming and computer stuff in general. also I'm studying logic and the basics of computation.</p>
