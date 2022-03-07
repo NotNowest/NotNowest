@@ -11,5 +11,13 @@
 </p>
   </a>
 <p align="center"> <a href=""><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
+
   </a>
 </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/84101654/156964670-0639940e-c1c0-45f0-af6f-16c627a24e05.png" height="250" weight>
+
+</p>
+
+
