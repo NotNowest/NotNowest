@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<a href="https://c.tenor.com/7EO63mrqZ4MAAAAd/komi-san-dance.gif"><kbd><img src="https://user-images.githubusercontent.com/84101654/156947624-b6418bab-a0f2-491f-a0e7-16f414a380ae.gif" height="300">
+<a href="https://c.tenor.com/7EO63mrqZ4MAAAAd/komi-san-dance.gif"><kbd><img src="https://cdn.discordapp.com/attachments/893072304714678272/950233655832379432/unknown.png" height="340">
 </a>
   </p>
 
