@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/lakscastro"><img src="https://user-images.githubusercontent.com/84101654/156964670-0639940e-c1c0-45f0-af6f-16c627a24e05.png" height="250" weight>
+<a href="https://open.spotify.com/user/ppfwqztl62ad6e157qh342vzm"><img src="https://user-images.githubusercontent.com/84101654/156964670-0639940e-c1c0-45f0-af6f-16c627a24e05.png" height="250" weight>
 
 </p>
 
